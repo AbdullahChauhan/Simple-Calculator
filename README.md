@@ -1,4 +1,4 @@
-# demo_app
+# Simple Calculator For Beginners
 
 A new Flutter project.
 
